@@ -1,0 +1,61 @@
+.upperpart{
+   
+    margin: auto;
+    width: 50%;
+}
+.title{
+    text-align: center;
+    color: brown;
+    background-color: black;
+}
+.characters{
+    background-color: black;
+    color: brown;
+}
+.dc{
+    background-color: black;
+    max-width: 100%;
+    height: auto;
+    
+}
+.characters{
+    float: right;
+    text-align: center;
+    color: brown;
+    width: 600px;
+    
+}
+ul{
+    position: fixed;
+    bottom: 0%;
+}
+li{
+    background-color: rgb(237, 23, 23);
+    width: max-content;
+    text-align: center;
+    display: inline-block;
+}
+.form{
+    text-align: left;
+    color: rgb(229, 24, 24);
+    border-bottom-width: 0;
+    background-color: black;
+    height: fit-content;
+    max-width: fit-content;
+}
+img{
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    width: auto;
+    height: 400px;
+}
+.dc{
+    background-image: url(https://pbs.twimg.com/media/FOD1wPGVIAMOWEK?format=jpg&name=900x900);
+    position: fixed;
+
+}
+h1{
+    color: red;
+    
+}
