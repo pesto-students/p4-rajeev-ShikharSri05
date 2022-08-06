@@ -3,16 +3,16 @@
 1.	 We type the desirable URL into the address bar.
 2.	Browser checks the cache for a DNS record to find the corresponding IP address.
 3.	To find the DNS record , the browser checks 4 caches:
-•	Browser cache 
-•	OS cache
-•	 Router cache 
-•	ISP cache
+  - Browser cache 
+  - OS cache
+  - Router cache 
+  - ISP cache
 4.	If the requested URL is not found , IPS ‘s DNS Server initiates a DNS query to find the IP adderss.
 5.	Now the browser initiates a TCP connection with the server.
 (Three way handshake TCP/IP) 
-•	Client -----SYN-----Server
-•	Server-----ACK------Client
-•	Client -----ACK------Server
+- Client -----SYN-----Server
+- Server-----ACK------Client
+- Client -----ACK------Server
 6.	Now the browser sends an HTTP request to the Webserver.
 7.	The Webserver passes the request to request handler to read and generate a response.
 8.	The server now sends out an HTTP response.
