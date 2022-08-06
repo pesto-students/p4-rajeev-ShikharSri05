@@ -1,0 +1,49 @@
+.pagetop{
+    color: rgb(35, 35, 182);
+    background-position: top right;
+}
+.icons{
+    width: auto;
+    float: left;
+    display: block;
+    padding: 20px 16px; 
+    color: rgb(255, 0, 0);
+    font-size: 26px;
+}
+.activa {
+    background-color: rgb(255, 255, 255);
+    color: blueviolet;
+}
+.brief data{
+    width: 80%;
+    
+
+}
+.meta{
+
+    color: rgb(242, 218, 218);
+    background-position: center ;
+}
+.main-class{
+    background-color: rgb(37, 34, 34);
+    height: auto
+    
+}
+img{
+    width: 150px;
+    padding-left: 40S%;
+    padding-top: 22px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 90%;
+}
+th, td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
+.footer{
+    background-color: aqua;
+}
